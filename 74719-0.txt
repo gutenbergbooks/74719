@@ -4,18 +4,18 @@ TRANSCRIBER’S NOTES
 The original book contains two separate works (Projectile-Throwing
 Engines and Mediæval Bows), each of which begins on its own page 1 and
 whose figures begin with “Fig. 1”. To allow hyperlinks to work properly,
-the second manuscript’s page numbers in this eBook begin on page 101.
+the second one’s page numbers in this eBook begin on page 101.
 
 In this Plain Text version, Transcriber has inserted visible page
 numbers along the right margin, in the form [Page nn], to make it easier
 for readers to find references.
 
 Figure numbers have not been changed, but in the HTML version, links to
-the figures go to the correct ones in each manuscript.
+the figures go to the correct ones in each work.
 
 Superscripts in this Plain Text version are represented as ^e or ^{T.}
 
-Other notes will be found near the end of this eBook.
+Additional notes will be found near the end of this eBook.
 
 
 
